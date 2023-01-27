@@ -1,0 +1,22 @@
+{
+  "name": "brackets-extensions",
+  "version": "1.0.0",
+  "description": "All brackets extensions",
+  "main": "editRegistry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brackets-archive/brackets-extensions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brackets-archive/brackets-extensions/issues"
+  },
+  "homepage": "https://github.com/brackets-archive/brackets-extensions#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7"
+  }
+}
