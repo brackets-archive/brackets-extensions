@@ -4089,7 +4089,8 @@
             "20180911": 3302
         },
         "gihubStars": 482,
-        "ownerRepo": "https://github.com/emmetio/brackets-emmet"
+        "ownerRepo": "https://github.com/emmetio/brackets-emmet",
+        "ownershipVerifiedByGitHub":["https://emmet.io"]
     },
     "themes": {
         "metadata": {
@@ -9977,7 +9978,8 @@
             "20180910": 16
         },
         "gihubStars": 0,
-        "ownerRepo": "https://github.com/mohole/MoholeBracketsTemplates"
+        "ownerRepo": "https://github.com/mohole/MoholeBracketsTemplates",
+        "ownershipVerifiedByGitHub":["https://scuola.mohole.it/"]
     },
     "code-font": {
         "metadata": {

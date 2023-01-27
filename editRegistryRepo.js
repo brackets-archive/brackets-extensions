@@ -1,7 +1,7 @@
 const fs = require("fs");
 const { Octokit } = require("@octokit/rest");
 const octokit = new Octokit({
-    auth: ''
+    auth: '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'
 });
 
 async function x() {
